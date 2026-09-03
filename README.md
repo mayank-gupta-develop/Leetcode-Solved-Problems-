@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0179-largest-number) |
 ## Trie
 |  |
@@ -56,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0179-largest-number) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mayank-gupta-develop/Leetcode-Solved-Problems-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
